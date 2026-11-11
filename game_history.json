@@ -1,0 +1,97 @@
+[
+  {
+    "player_name": "pini",
+    "rounds": 2,
+    "player_score": 0,
+    "computer_score": 1,
+    "winner": "computer",
+    "results": [
+      {
+        "round": 2,
+        "player_dice": 3,
+        "computer_dice": 3,
+        "winner": "Draw"
+      },
+      {
+        "round": 2,
+        "player_dice": 3,
+        "computer_dice": 3,
+        "winner": "Draw"
+      }
+    ]
+  }
+][
+  {
+    "player_name": "pini",
+    "rounds": 4,
+    "player_score": 1,
+    "computer_score": 2,
+    "winner": "computer",
+    "results": [
+      {
+        "round": 4,
+        "player_dice": 1,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 4,
+        "player_dice": 1,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 4,
+        "player_dice": 1,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 4,
+        "player_dice": 1,
+        "computer_dice": 4,
+        "winner": "Computer"
+      }
+    ]
+  }
+][
+  {
+    "player_name": "pini",
+    "rounds": 5,
+    "player_score": 1,
+    "computer_score": 3,
+    "winner": "computer",
+    "results": [
+      {
+        "round": 5,
+        "player_dice": 2,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 5,
+        "player_dice": 2,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 5,
+        "player_dice": 2,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 5,
+        "player_dice": 2,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 5,
+        "player_dice": 2,
+        "computer_dice": 4,
+        "winner": "Computer"
+      }
+    ]
+  }
+]
